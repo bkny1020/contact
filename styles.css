@@ -1,0 +1,39 @@
+
+
+.contact {
+    font-family: 'Antic Slab', serif;
+    font-size: 22px;
+    border-bottom: 1px solid rgb(44, 43, 43);
+    padding-top: 2px;
+}
+.navbar-brand {
+    font-family: 'Pacifico', cursive;
+    font-size: 36px;
+    color: rgb(223, 214, 199);
+}
+
+
+.container-fluid {
+    text-align: center;
+    margin-top: 0px; 
+    margin-bottom: 0px; 
+    margin-left: 0px; 
+    margin-right: 0px;
+    padding: 0px;
+    border: 0px;
+    border-color: bisque;
+}
+
+.mynav {
+    color: ivory;
+    font-weight: bolder;
+    font-size: 30px;
+ }
+
+
+footer {
+    position: fixed;
+    bottom: 50px;
+    right: 40px;
+
+}
