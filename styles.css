@@ -7,7 +7,6 @@
     padding-top: 2px;
 }
 .navbar-brand {
-    font-size: small;
     font-family: 'Pacifico', cursive;
     font-size: 36px;
     color: rgb(223, 214, 199);
@@ -31,6 +30,17 @@
     font-size: 30px;
  }
 
+
+
+ .wholeform{
+    font-family: 'Antic Slab', serif;
+    font-size: 14px;
+ }
+
+ p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 10pt;
+}
 
 footer {
     position: fixed;
